@@ -8,4 +8,4 @@ In the project directory, you can run:
 
 Or
 
-[Fitme gym landing page](https://fitmegym.vercel.app/)Ï
+[Fitme gym landing page](https://fitmegym.vercel.app/)
