@@ -4,7 +4,9 @@
 
 In the project directory, you can run:
 
-### `npm run dev`
+```bash
+npm run dev
+```
 
 Or
 
