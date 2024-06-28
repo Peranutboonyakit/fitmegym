@@ -30,7 +30,7 @@ const Team = () => {
           variants={fadeIn("down", 0.1)}
           initial="hidden"
           whileInView="show"
-          viewport={{ amount: 0.2, once: true }}
+          viewport={{ amount: 0.1, once: true }}
           className="h2 text-accent mb-6"
         >
           Our trainers
@@ -39,7 +39,7 @@ const Team = () => {
           variants={trainerContainerVariant}
           initial="hidden"
           whileInView="show"
-          viewport={{ amount: 0.3, once: true }}
+          viewport={{ amount: 0.1, once: true }}
           className="grid md:grid-cols-2 xl:grid-cols-3 gap-12 mb-12"
         >
           {trainerData.map((item, i) => (

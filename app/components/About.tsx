@@ -63,7 +63,7 @@ const About = () => {
               variants={statContainerVariant}
               initial="hidden"
               whileInView="show"
-              viewport={{ amount: 0.3, once: true }}
+              viewport={{ amount: 0.01, once: true }}
               className="grid md:grid-cols-2 lg:grid-cols-4"
             >
               {statData.map((stat, i) => (
